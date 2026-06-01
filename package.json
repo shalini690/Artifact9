@@ -1,0 +1,12 @@
+{
+  "name": "artifact9",
+  "version": "1.0.0",
+  "description": "A Node.js tutorial HTTP server built with Express that exposes two GET endpoints.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
